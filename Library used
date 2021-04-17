@@ -1,0 +1,4 @@
+1)  pip install pandas-datareader
+2)  pip install matplotlib
+3)  pip install mpl-finance // candleStick
+4)  pip install numpy
